@@ -3,7 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
-
+body{
+    background-color: black;
+}
 header{
     display: flex;
     justify-content: center;
@@ -16,7 +18,7 @@ header{
     font-size: 1vw;
     color: white;
     padding: 10px;
-    background-image: url(image/star-wars-jedi-trailer-section-bg-xl.jpg.adapt.1920w.jpg);
+    background-image: url(../image/star-wars-jedi-trailer-section-bg-xl.jpg.adapt.1920w.jpg);
 }
 .container > .img{
     display: flex;
